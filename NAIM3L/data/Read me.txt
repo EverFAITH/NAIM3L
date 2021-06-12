@@ -1,0 +1,13 @@
+If you want to run my code directly, please make sure: 
+1. The orignial data is put in the matlab "Current Folder". 
+2. ALL files are put in the "data" folder and are added in path.
+3. You have changed the path in "data_read.m" to your own.
+Then you can run data_read.m and get the following .mat files in the corresponding _mat folders.
+£¨See corel5k_mat folder for a right example.£©
+
+
+
+Please feel free to contact me if you have any questions.
+My Email£ºlx90@nuaa.edu.cn
+
+This code only gives permission for personal, academic, or educational use, but not for commercial use.
