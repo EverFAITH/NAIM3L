@@ -18,4 +18,4 @@ https://arxiv.org/abs/2005.00976
 Please feel free to contact me if you have any questions.  
 My Email：lx90@nuaa.edu.cn
 
-This code only gives permission for personal, academic, or educational use, but not for commercial use.
+These codes only give permission for personal, academic, or educational use, but not for commercial use.
