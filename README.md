@@ -11,6 +11,7 @@ Codes of A Concise yet Effective Model for Non-Aligned Incomplete Multi-view and
 Corresponding paper：  
 A Concise yet Effective Model for Non-Aligned Incomplete Multi-view and Missing Multi-label Learning  
 IEEE Transactions on Pattern Analysis and Machine Intelligence, vol. 44, no. 10, pp. 5918-5932, 1 Oct. 2022 
+
 DOI Bookmark: 10.1109/TPAMI.2021.3086895  
 (https://ieeexplore.ieee.org/abstract/document/9447974)
 
