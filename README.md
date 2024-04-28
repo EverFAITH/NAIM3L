@@ -21,23 +21,16 @@ My Email：lx90@nuaa.edu.cn
 
 These codes only give permission for personal, academic, or educational use, but not for commercial use.
 
-# Citation：
-
+## Citation：
+```
 @article{li2022concise,
-
   title={A concise yet effective model for non-aligned incomplete multi-view and missing multi-label learning},
-  
   author={Li, Xiang and Chen, Songcan},
-  
-  journal={IEEE Transactions on Pattern Analysis and Machine Intelligence},
-  
+  journal={IEEE Transactions on Pattern Analysis and Machine Intelligence}, 
   volume={44},
-  
   number={10},
-  
-  pages={5918--5932},
-  
-  year={2022},
-  
+  pages={5918--5932}, 
+  year={2022}, 
   publisher={IEEE}
 }
+```
