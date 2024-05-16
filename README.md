@@ -1,5 +1,5 @@
 # NAIM3L
-Codes of A Concise yet Effective Model for Non-Aligned Incomplete Multi-view and Missing Multi-label Learning
+Codes of A Concise Yet Effective Model for Non-Aligned Incomplete Multi-view and Missing Multi-label Learning
 
 1. Please read the Read me.txt in the 'data' fold first and make sure you put the right files in the right place.
 2. Please replace the path of your own in the 'data_cmp_func.m' file.
